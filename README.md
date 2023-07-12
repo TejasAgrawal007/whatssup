@@ -3,3 +3,15 @@ A Node.js chatting application using socket programming typically involves creat
 
 
 ![Capture](https://github.com/TejasAgrawal007/whatssup/assets/72118095/24cf2b14-fc69-4439-bc1e-a6c180b3e467)
+
+
+# whassup
+
+> install Node Module to run this app.
+
+
+```
+npm install node
+
+start project:  npm run dev
+```
